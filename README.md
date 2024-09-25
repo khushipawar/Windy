@@ -1,10 +1,10 @@
-###Weather App
+### Weather App
 A simple weather application built with React, leveraging the OpenWeatherMap API to provide real-time weather information.
-##Features
+## Features
 Search for current weather by city name.
 Display temperature, humidity, wind speed, sunrise and sunset times, high and low temperatures, and weather conditions.
 Provide weather predictions for the current location.
-##Technologies Used
+## Technologies Used
 React
 OpenWeatherMap API
 CSS
